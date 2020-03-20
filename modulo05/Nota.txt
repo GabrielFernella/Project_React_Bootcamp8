@@ -2,7 +2,7 @@ Plugins for Aplication
 1 - yarn create react-app modulo05
 2 - yarn add eslint -D    ||   Before = yarn eslint --init (3, 1, 1, 1, 1, 1 ) e Y  || depois execute yarn
 3 - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D (plugins para verificação de código)
-4 -
+4 - yarn add react-router-dom (para evitar a reinicialização da DOM)
 5 -
 6 -
 7 -
