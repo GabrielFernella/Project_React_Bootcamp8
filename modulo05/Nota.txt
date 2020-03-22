@@ -3,7 +3,7 @@ Plugins for Aplication
 2 - yarn add eslint -D    ||   Before = yarn eslint --init (3, 1, 1, 1, 1, 1 ) e Y  || depois execute yarn
 3 - yarn add prettier eslint-config-prettier eslint-plugin-prettier babel-eslint -D (plugins para verificação de código)
 4 - yarn add react-router-dom (para evitar a reinicialização da DOM)
-5 -
+5 - yarn add styled-components (CSS para react and react native)
 6 -
 7 -
 8 -
